@@ -44,4 +44,4 @@ Contribuições são bem-vindas! Se você tem sugestões, melhorias ou correçõ
 
 ```markdown
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
