@@ -40,8 +40,6 @@ Contribuições são bem-vindas! Se você tem sugestões, melhorias ou correçõ
 5. Abra uma *Pull Request* explicando sua proposta.
 
 
-### 📄 Licença
-
-```markdown
+## Licença
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
